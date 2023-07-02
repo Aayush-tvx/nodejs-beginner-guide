@@ -30,5 +30,5 @@ s
 To get started with the tutorial, simply clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/nodejs-beginner-tutorial.git
+git clone https://github.com/siddhirajpantoji/nodejs-beginer-guide.git
 ```
