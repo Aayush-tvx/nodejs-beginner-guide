@@ -2,7 +2,7 @@
 
 Lets create a Simple HTTP Endpoint which says hello world in response when we hit it with Browser 
 
-1. [Write the simple applicatiom](#write-a-simple-application)
+1. [Write the simple application](#write-a-simple-application)
 2. [Understand the code](#understand-the-code)
 2. [Run the application](#run-the-application) 
 3. Test simple application 

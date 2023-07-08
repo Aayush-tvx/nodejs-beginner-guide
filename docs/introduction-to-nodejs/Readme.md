@@ -1,6 +1,6 @@
 # Introduction to Node js 
 
-Welome all to world of NodeJS . Node js is Server Side Javascript.
+Welocme all to world of NodeJS . Node js is Server Side Javascript.
 I will be introducing you all to fundamental concepts of Nodejs and how you can utilise it fully to Enhance your Web Development Skills s
 1. [What is Node.js](#what-is-nodejs "Basic About Node.js")
 2. [Key Features of Node.js](#key-features-of-nodejs "Key Features of Node.js")
