@@ -7,7 +7,7 @@ This repository contains a beginner-level tutorial for Node.js. It covers variou
 - [Introduction to Node.js](./introduction-to-nodejs/)
 - [Installing Node.js and NPM](./installing-nodejs-and-npm/)
 - [Creating your first Node.js application](./creating-first-nodejs-application/)
-[//]: # -[Understanding the Node.js runtime environment](#understanding-the-nodejs-runtisme-environment)
+[//]: # [Understanding the Node.js runtime environment](#understanding-the-nodejs-runtisme-environment)
 [//]: # - [Working with modules in Node.js](#working-with-modules-in-nodejs)
 [//]: # - [Asynchronous programming in Node.js with callbacks](#asynchronous-programming-in-nodejs-with-callbacks)
 [//]: # - [Introduction to Promises and async/await in Node.js](#introduction-to-promises-and-asyncawait-in-nodejs)
