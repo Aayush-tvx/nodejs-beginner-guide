@@ -4,8 +4,8 @@ This repository contains a beginner-level tutorial for Node.js. It covers variou
 
 ## Table of Contents
 
-- [Introduction to Node.js](/introduction-to-nodejs/Readme.md)
-- [Installing Node.js and NPM](#installing-nodejs-and-npm)
+- [Introduction to Node.js](/docs/introduction-to-nodejs/)
+- [Installing Node.js and NPM](/docs/installing-nodejs-and-npm/)
 - [Creating your first Node.js application](#creating-your-first-nodejs-application)
 - [Understanding the Node.js runtime environment](#understanding-the-nodejs-runtisme-environment)
 - [Working with modules in Node.js](#working-with-modules-in-nodejs)
