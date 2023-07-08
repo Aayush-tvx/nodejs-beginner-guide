@@ -8,7 +8,7 @@ I will be introducing you all to fundamental concepts of Nodejs and how you can 
 4. [Writing Hello World program](#writing-a-hello-world-program "Hello World Program")
 6. [Next Steps](#next-steps "Next Steps") 
  
- ## What is Node.js 
+## What is Node.js 
 Node JS is Server Side JavaScript 
 Node.js is an open-source, cross-platform runtime environment that allows us to run JavaScript code on the server-side. It uses the V8 JavaScript engine, originally created for Google Chrome.
 Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
