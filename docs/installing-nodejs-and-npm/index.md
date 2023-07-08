@@ -7,7 +7,6 @@ Node JS installations differ on Diffrent Operating Systems. We will go through S
 2. [Install the package](#install-the-package)
 3. [Verify Installation on your System](#verify-installation-of-nodejs-and-npm)
 
-
 ## Download the installation package
 Visit official [Node.js Website](https://nodejs.org/en) .
 Go to [Download Section](https://nodejs.org/en/download) and Download the LTS Version 
