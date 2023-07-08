@@ -6,8 +6,8 @@ This repository contains a beginner-level tutorial for Node.js. It covers variou
 
 - [Introduction to Node.js](./introduction-to-nodejs/)
 - [Installing Node.js and NPM](./installing-nodejs-and-npm/)
-- [Creating your first Node.js application](#creating-your-first-nodejs-application)
-- [Understanding the Node.js runtime environment](#understanding-the-nodejs-runtisme-environment)
+- [Creating your first Node.js application](./creating-first-nodejs-application/)
+<!-- - [Understanding the Node.js runtime environment](#understanding-the-nodejs-runtisme-environment)
 - [Working with modules in Node.js](#working-with-modules-in-nodejs)
 - [Asynchronous programming in Node.js with callbacks](#asynchronous-programming-in-nodejs-with-callbacks)
 - [Introduction to Promises and async/await in Node.js](#introduction-to-promises-and-asyncawait-in-nodejs)
@@ -23,4 +23,4 @@ This repository contains a beginner-level tutorial for Node.js. It covers variou
 - [Deploying Node.js applications to a hosting platform](#deploying-nodejs-applications-to-a-hosting-platform)
 - [Testing and debugging Node.js applications](#testing-and-debugging-nodejs-applications)
 - [Best practices for writing scalable and maintainable Node.js code](#best-practices-for-writing-scalable-and-maintainable-nodejs-code)
-- [Exploring popular Node.js libraries and frameworks](#exploring-popular-nodejs-libraries-and-frameworks)
+- [Exploring popular Node.js libraries and frameworks](#exploring-popular-nodejs-libraries-and-frameworks) -->
