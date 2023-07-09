@@ -1,4 +1,4 @@
-||श्रीगणेशाय नमः||
+||श्री गणेशाय नमः||
 # Node.js Beginner Tutorial
 
 This repository contains a beginner-level tutorial for Node.js. It covers various topics to help you get started with Node.js development. Each topic includes code examples and explanations to aid your learning process.
@@ -15,10 +15,13 @@ This repository contains a beginner-level tutorial for Node.js. It covers variou
 - Conditional Flow - If statememt, switch cases 
 - Loops ( For , while , do while , for each )
 - Functions 
+- Code Quality 
+- Objects and Properties 
+- Inheritance and Prototypes 
+- Classes 
 - Callbacks, Async Programming in Node.js
 - Events and Event Loop - Node js Single Thread Architecture 
-- Promises 
-- Async Await 
+- Promises and Async Await 
 - Exception Handling with Callbacks, Promises and Async await 
 - Introduction to core Modules in Node.js
 - FS Module and Efficient File handling 
