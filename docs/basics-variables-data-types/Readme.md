@@ -8,4 +8,4 @@ We will cover basic concepts of Javascript with like Variables , Datatypes, Stri
 4. Type Conversions
 5. Basic Operators, maths
 
-:warning:
+|:grinning: | `:grinning:` | 
