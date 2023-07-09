@@ -10,7 +10,7 @@ This repository contains a beginner-level tutorial for Node.js. It covers variou
 - [Installing Node.js and NPM](./installing-nodejs-and-npm/)
 - [Creating your first Node.js application](./creating-first-nodejs-application/)
 - [Setup IDE for Further Course](./setup-ide-for-development/)
-- Basics - Variables, DataTypes
+- [Basics - Variables, DataTypes](./basics-variables-data-types/)
 - Conditional Flow - If statememt, switch cases 
 - Loops ( For , while , do while , for each )
 - Functions 
